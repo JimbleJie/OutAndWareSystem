@@ -1,0 +1,13 @@
+@charset "UTF-8";
+.li_nav{
+	height: 100%;
+	width: 20%
+}
+.ul_lnav{
+	style="height: 100%; 
+	width: 100%;
+	list-style-type:none"
+}
+a{
+	text-decoration: none
+}
